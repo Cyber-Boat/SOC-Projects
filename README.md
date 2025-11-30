@@ -1,5 +1,7 @@
 # Hello, I'm Boateng Duah Adonteng
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/boateng-duah-adonteng-503639388
+
+"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 A cybersecurity professional with a strong foundation in computer science and a growing portfolio of hands-on experience in security operations. My journey has fueled a deep interest in threat detection, incident response, and security automation. I am focused on developing and applying practical skills to analyze, mitigate, and prevent cyber threats while contributing to the advancement of organizational security.
 
